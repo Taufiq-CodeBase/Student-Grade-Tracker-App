@@ -30,3 +30,21 @@ Run:
 
 - `flutter test`
 - `flutter analyze`
+
+## Snapshots
+
+App screenshots of the three main screens below:
+
+<div align="center">
+  <img src="assets/add_subject.png" alt="Add Subject Screen" width="250" style="margin: 0 24px 24px 0;" />
+  <img src="assets/sub_list_&_delete.png" alt="Subject List Screen" width="250" style="margin: 0 24px 24px 0;" />
+  <img src="assets/summary.png" alt="Summary Screen" width="250" style="margin: 0 0 24px 0;" />
+</div>
+
+## Dark mode
+
+<div align="center">
+  <img src="assets/dark_add_subject.png" alt="Add Subject Screen" width="250" style="margin: 0 24px 24px 0;" />
+  <img src="assets/dark_sub_list_&_delete.png" alt="Subject List Screen" width="250" style="margin: 0 24px 24px 0;" />
+  <img src="assets/dark_summary.png" alt="Summary Screen" width="250" style="margin: 0 0 24px 0;" />
+</div>
